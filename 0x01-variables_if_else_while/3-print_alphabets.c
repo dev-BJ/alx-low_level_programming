@@ -12,7 +12,7 @@ int main(void)
 
 	for (low = 'a'; low <= 'z'; low++)
 		putchar(low);
-	for (high = 'a'; high <= 'z'; high++)
+	for (high = 'A'; high <= 'Z'; high++)
                 putchar(high);
 	printf("\n");
 	return (0);
