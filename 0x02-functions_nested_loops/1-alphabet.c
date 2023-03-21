@@ -5,6 +5,9 @@
  *
  * Return: Always 0.
  */
+
+/* print alphabets */
+
 void print_alphabet(void)
 {
 	int n;
